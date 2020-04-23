@@ -1,0 +1,27 @@
+{
+  "name": "rpspagination",
+  "version": "1.0.0",
+  "description": "Nodejs Pagination script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulnkvaidya/rps-nodejs-pagination.git"
+  },
+  "keywords": [
+    "nodejs",
+    "pagination",
+    "script",
+    "javascript",
+    "pagination",
+    "pakage"
+  ],
+  "author": "Rahul Vaidya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulnkvaidya/rps-nodejs-pagination/issues"
+  },
+  "homepage": "https://github.com/rahulnkvaidya/rps-nodejs-pagination#readme"
+}
