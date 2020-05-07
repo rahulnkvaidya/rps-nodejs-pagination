@@ -1,7 +1,7 @@
 {
   "name": "rpspagination",
   "version": "1.0.4",
-  "description": "Nodejs Pagination script",
+  "description": "Nodejs, Javascript, Mongodb, Pagination NPM Package script",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,8 @@
     "script",
     "javascript",
     "pagination",
-    "pakage"
+    "NPM package",
+    "Mongodb pagination"
   ],
   "author": "Rahul Vaidya",
   "license": "ISC",
