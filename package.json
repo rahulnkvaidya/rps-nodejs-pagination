@@ -1,6 +1,6 @@
 {
   "name": "rpspagination",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Nodejs, Javascript, Mongodb, Pagination NPM Package script",
   "main": "index.js",
   "scripts": {
