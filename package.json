@@ -1,6 +1,6 @@
 {
   "name": "rpspagination",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Nodejs Pagination script",
   "main": "index.js",
   "scripts": {
