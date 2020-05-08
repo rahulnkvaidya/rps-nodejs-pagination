@@ -20,19 +20,32 @@ getPager (For Pagination)<br />
 >});<br />
 
 ##====== Output (demo)
-totalItems: 200,<br />
-currentPage: 1,<br />
-pageSize: 10,<br />
-totalPages: 20,<br />
-startPage: 1,<br />
-nextPage: 2,<br />
-previousPage: null,<br />
-endPage: 20,<br />
-startIndex: 1,<br />
-endIndex: 20,<br />
-previousIndex: previousIndex,<br />
-nextIndex:nextIndex,<br />
-pages: 20<br />
+> pagination: {<br />
+>   totalItems: 7741,<br />
+>   currentPage: 1,<br />
+>   pageSize: 10,<br />
+>   totalPages: 775,<br />
+>   startPage: 1,<br />
+>   nextPage: 2,<br />
+>   previousPage: null,<br />
+>   endPage: 10,<br />
+>   startIndex: 0,<br />
+>   endIndex: 9,<br />
+>   previousIndex: 0,<br />
+>   nextIndex: 10,<br />
+>   pages: [<br />
+>        1,<br />
+>        2,<br />
+>        3,<br />
+>        4,<br />
+>        5,<br />
+>        6,<br />
+>        7,<br />
+>        8,<br />
+>        9,<br />
+>        10<br />
+>   ]<br />
+> }<br />
 
 ###License
 MIT
